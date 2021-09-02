@@ -1,5 +1,5 @@
 # **Building A Simple Web App with Flask and PostgreSQL Database**
-This repository contains the source code and instructions to build and deploy a simple newsletter page with some basic diagnostic featues, that saves the submitted user information inside a Postgres database.
+This repository contains the source code and instructions to build and deploy a simple newsletter page with some basic diagnostic features, that saves the submitted user information inside a Postgres database.
 
 ## **Step 1: Prepare the Development Environment**
 - Install [VS Code](https://code.visualstudio.com/download).
