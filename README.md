@@ -42,3 +42,15 @@ After running the last command you should see that a database named `postgres` h
 Open a browser and go to `localhost:5000`, this should open the web application. Fill in the empty fields and click submit. If the applcation is working as it should, you should be redirected to a "Thank you" page. We can verify that the user data has been saved into our database by going back to the postgres shell that we created earlier. Type in `TABLE mailinglist;`and hit enter, you should see the user info that you have typed in your browser saved in your database.
 
 ### Congratuations! You have just deployed a simple web application with Docker!
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
